@@ -12,6 +12,7 @@ DURATION: 8 WEEKS
 
 MENTOR: NEELA SANTHOSH KUMAR
 
+# DESCRIPTION OF TASK
 
 This project was completed as part of the Data Analytics Internship at CODTECH IT Solutions Private Limited. The objective of this task was to perform big data analysis using PySpark and demonstrate the ability to process and analyze large datasets efficiently. PySpark is the Python API for Apache Spark, a powerful distributed computing framework designed for handling large-scale data processing and analytics.
 
@@ -33,6 +34,5 @@ Throughout the project, PySpark DataFrames, aggregation functions, filtering tec
 
 In conclusion, this project successfully demonstrated the application of PySpark for big data analysis. By analyzing sales performance, profitability, customer behavior, and regional trends, valuable business insights were generated from the dataset. The project enhanced practical knowledge of big data technologies, data processing, and analytical thinking while showcasing the importance of data-driven decision-making in modern organizations.
 
-Portfolio projects
+# OUTPUT
 
-It is well over 500 words and matches the work you actually performed in Task 1.
