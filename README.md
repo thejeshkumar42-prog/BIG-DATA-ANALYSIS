@@ -36,3 +36,4 @@ In conclusion, this project successfully demonstrated the application of PySpark
 
 # OUTPUT
 
+<img width="1837" height="879" alt="Image" src="https://github.com/user-attachments/assets/b3d7ad3e-bd8c-49f1-bb07-f06ee5e2caa5" />
